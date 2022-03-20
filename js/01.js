@@ -14,11 +14,9 @@ const app = new Vue({
         newFruit: ''
     },
         methods:{
-            addFruit: function(){
-                
+            addFruit(){
+        console.log('on in click');
             }
-        },
-        
-        
-    }
+        }
+
 })
