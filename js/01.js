@@ -9,7 +9,15 @@ const app = new Vue({
         {name:'Watermelon', amount: 900  },
         {name:'Pineapple', amount: 0  },
         
-        ]
+        ],
+
+        newFruit: ''
+    },
+        methods:{
+            addFruit: function(){
+                
+            }
+        },
         
         
     }

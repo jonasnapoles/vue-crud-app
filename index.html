@@ -10,7 +10,9 @@
 <div id="app">
 
     <h1>{{title}}</h1>
-    
+    <!-- v-model makes the connection with js -->
+    <input type="text" v-model="newFruit">
+
     <ul>
         <!-- Arrey -->
         <li v-for="fruit of fruits"> {{fruit.amount}} - {{fruit.name}}
