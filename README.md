@@ -1,5 +1,5 @@
 # vuejs-test
-###Vue js Test
+Vue js Test
 
 [computed](https://v2.vuejs.org/v2/guide/computed.html?redirect=true)
 
@@ -21,7 +21,20 @@ This [Vue.js](https://v2.vuejs.org)
 
 ## Screenshots
 
+
+
+
+
 <img align="right" height="270px" alt="Coding" src="public\img\Screenshot 2022-03-21-114517.png" />
+
+
+
+
+
+
+
+
+
 
 ## Installation
 
