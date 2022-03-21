@@ -23,7 +23,7 @@ This [Vue.js](https://v2.vuejs.org)
 
 
 
-<img align="left" height="270px" alt="Coding" src="public\img\Screenshot 2022-03-21-114517.png" />
+<img  height="270px" alt="Coding" src="public\img\Screenshot 2022-03-21-114517.png" />
 
 
 
