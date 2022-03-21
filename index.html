@@ -11,13 +11,15 @@
 
     <h1>{{title}}</h1>
     <!-- v-model makes the connection with js -->
-    <input type="text" v-model="newFruit" @keyup>
+    <input type="text" v-model="newFruit" @keyup.enter="addFruit">
     <!-- Eventos/Events -->
     <button @click="addFruit">Add</button>
 
     <ul>
         <!-- Arrey -->
-        <li v-for="fruit of fruits"> {{fruit.amount}} - {{fruit.name}}
+        <li v-for="fruit of fruits">
+            <input type="number" v-model="fruit.amount">
+             {{fruit.name}}
           <!-- Conditional -->
     <span v-if="fruit.amount === 0"> - out of stock </span>    
         </li>
