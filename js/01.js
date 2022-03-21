@@ -27,6 +27,9 @@ const app = new Vue({
                 //Para reniciar o input para ficar vazio, temos que determiar  que  fique novamente  vazio, portanto temos que ensirir fora do push
                 this.newFruit = '';
             },
+
+
+            
             otherMethod (){
                 //code
             }
