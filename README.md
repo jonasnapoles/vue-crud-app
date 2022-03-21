@@ -10,13 +10,14 @@ V-model
 
 # Vue.js
 
-This [Vue.js](https://v2.vuejs.org) '
+This [Vue.js](https://v2.vuejs.org)
 
 ## Requirements
 
 ## Features
 
 ## Screenshots
+<img align="right" height="270px" alt="Coding" src="public\img\Screenshot 2022-03-21-114517.png" />
 
 ## Installation
 
