@@ -13,11 +13,7 @@ V-model
 
 # Vue.js
 
-<<<<<<< HEAD
 This [Vue.js](https://v2.vuejs.org)
-=======
-This [Vue.js](https://v2.vuejs.org) 
->>>>>>> e7b95d24da797f4958e2e43f9bf80fca65a47757
 
 ## Requirements
 
