@@ -11,14 +11,14 @@
 
     <h1>{{title}}</h1>
     <!-- v-model makes the connection with js -->
-    <input type="text" v-model.number="newFruit" @keyup.enter="addFruit">
+    <input type="text" v-model="newFruit" @keyup.enter="addFruit">
     <!-- Eventos/Events -->
     <button @click="addFruit">vue Add</button>
 
     <ul>
         <!-- Arrey -->
         <li v-for="fruit of fruits">
-            <input type="number" v-model="fruit.amount">
+            <input type="number" v-model.number="fruit.amount">
              {{fruit.name}}
           <!-- Conditional -->
     <span v-if="fruit.amount === 0"> - out of stock </span>    
