@@ -10,10 +10,7 @@ V-model
 
 # Vue.js
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/pdmfc/nova-notes-field.svg?style=flat-square)](https://packagist.org/packages/pdmfc/nova-notes-field)
-[![Total Downloads](https://img.shields.io/packagist/dt/pdmfc/nova-notes-field.svg?style=flat-square)](https://packagist.org/packages/pdmfc/nova-notes-field)
-
-This [Laravel Nova](https://nova.laravel.com) package adds an annotation field to Nova's arsenal of fields.'
+This [Vue.js](https://v2.vuejs.org) '
 
 ## Requirements
 
@@ -22,7 +19,6 @@ This [Laravel Nova](https://nova.laravel.com) package adds an annotation field t
 ## Screenshots
 
 ## Installation
-
 
 ## Usage
 
