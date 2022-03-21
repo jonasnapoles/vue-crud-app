@@ -10,7 +10,7 @@ V-model
 
 # Vue.js
 
-This [Vue.js](https://v2.vuejs.org) '
+This [Vue.js](https://v2.vuejs.org) 
 
 ## Requirements
 
