@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Working with Vue part 2</title>
+  
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+</head>
+
+<body>
+
+    <div id="app1" class="container mt-5">
+
+        <div :class="['p-3','text-white', background]">
+            <p>
+                Lorem ipsum dolor sit amet. Est quia dignissimos in dolorem aliquid ut ducimus quae et voluptatem
+                debitis. Nam cupiditate porro vel earum ullam eos iure debitis ut minus ratione et enim sed voluptatibus
+                quibusdam. Est ipsa voluptatum At facere earum ex quis fugit hic perspiciatis dignissimos sed expedita
+                possimus ut iste libero aut esse voluptate. Ut quibusdam temporibus non voluptatem aspernatur sed iusto
+                veniam est quis.
+            </p>
+        </div>
+        <input type="text" class="form-control my-3" v-model="background">
+
+        <div class="text-white p-3" :class="{'bg-info' : colour, 'bg-success' : !colour}">
+            <p>
+                Lorem ipsum dolor sit amet. Est quia dignissimos in dolorem aliquid ut ducimus quae et voluptatem
+                debitis. Nam cupiditate porro vel earum ullam eos iure debitis ut minus ratione et enim sed voluptatibus
+                quibusdam. Est ipsa voluptatum At facere earum ex quis fugit hic perspiciatis dignissimos sed expedita
+                possimus ut iste libero aut esse voluptate. Ut quibusdam temporibus non voluptatem aspernatur sed iusto
+                veniam est quis.
+            </p>
+        </div>
+        <button class="btn btn-primary" @click="colour = !colour">Change</button>
+
+    </div>
+
+<!-- versão de desenvolvimento, inclui avisos úteis no console  -->
+<script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+<script src="js/02.js"></script>
+</body>
+
+</html>
