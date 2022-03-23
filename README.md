@@ -11,10 +11,18 @@
 
 [v-bind:class](https://v2.vuejs.org/v2/guide/class-and-style.html)
 
+[splice](https://vuejs.org/guide/essentials/list.html#v-for-with-a-component)
+
+[created](https://vuejs.org/api/options-lifecycle.html#created)
 
 # Vue.js
 
 This [Vue.js](https://v2.vuejs.org)
+
+
+# Bootstrap
+
+This [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 
 ## Requirements
 
@@ -27,6 +35,8 @@ This [Vue.js](https://v2.vuejs.org)
 ## Installation
 
 Install [Vue.js](https://v2.vuejs.org/v2/guide/installation.html)
+
+CDN development version:
 
 <!-- development version, includes helpful console warnings -->
 
