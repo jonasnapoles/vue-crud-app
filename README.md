@@ -1,5 +1,6 @@
-# vuejs-test
-##Vue js Test
+# Vue.js App
+
+##Small task management project
 
 [computed](https://v2.vuejs.org/v2/guide/computed.html?redirect=true)
 
@@ -30,7 +31,7 @@ This [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/
 
 ## Screenshots
 
-<img height="250px" alt="Coding" src="public\img\Screenshot 2022-03-21-114517.png" />
+<img height="250px" alt="Coding" src="public\img\Screenshot-task-management.png" />
 
 ## Installation
 
