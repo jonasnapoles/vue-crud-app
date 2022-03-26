@@ -1,6 +1,6 @@
 # Vue.js App
 
-##Small task management project
+## Small task management project
 
 [computed](https://v2.vuejs.org/v2/guide/computed.html?redirect=true)
 
