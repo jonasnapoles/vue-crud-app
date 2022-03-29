@@ -47,6 +47,8 @@ CDN development version:
 
 ## Credits
 
+[Jonas Oliveira](https://github.com/jonasnapoles)
+
 ## License
 
 This project is open-sourced software licensed under the [MIT license](LICENSE.md).
