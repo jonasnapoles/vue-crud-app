@@ -48,7 +48,7 @@ CDN development version:
 ## Credits
 
 [Jonas Oliveira](https://github.com/jonasnapoles) 
-<img alt="Credits" src="https://avatars.githubusercontent.com/u/81438449?s=48&v=4">
+
 
 ## License
 
